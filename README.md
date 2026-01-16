@@ -2,7 +2,7 @@
 
 🚀 AWS Cloud | DevOps Engineer | IAM (OIM, SailPoint) 
 
-GitHub Profile: github.com/ARPIT311095
+GitHub Profile: https://github.com/ARPIT311095
 
 I am a passionate **AWS Cloud & DevOps Engineer** with hands-on experience in  
 **cloud infrastructure, automation, and identity access management**.  
